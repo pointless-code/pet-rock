@@ -19,6 +19,10 @@ docker build -t pet-rock .
 docker run -d pet-rock
 ```
 
+## Social
+
+<a href="https://www.instagram.com/pointlesscode/">Instagram</a>
+
 ## License
 
 The project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
